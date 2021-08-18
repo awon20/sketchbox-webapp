@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sketchbox-webapp/static/css/main.b061f281.chunk.css",
+    "main.js": "/sketchbox-webapp/static/js/main.91a19715.chunk.js",
+    "main.js.map": "/sketchbox-webapp/static/js/main.91a19715.chunk.js.map",
+    "runtime-main.js": "/sketchbox-webapp/static/js/runtime-main.d2eafe54.js",
+    "runtime-main.js.map": "/sketchbox-webapp/static/js/runtime-main.d2eafe54.js.map",
+    "static/js/2.e9f45f92.chunk.js": "/sketchbox-webapp/static/js/2.e9f45f92.chunk.js",
+    "static/js/2.e9f45f92.chunk.js.map": "/sketchbox-webapp/static/js/2.e9f45f92.chunk.js.map",
+    "index.html": "/sketchbox-webapp/index.html",
+    "static/css/main.b061f281.chunk.css.map": "/sketchbox-webapp/static/css/main.b061f281.chunk.css.map",
+    "static/js/2.e9f45f92.chunk.js.LICENSE.txt": "/sketchbox-webapp/static/js/2.e9f45f92.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2eafe54.js",
+    "static/js/2.e9f45f92.chunk.js",
+    "static/css/main.b061f281.chunk.css",
+    "static/js/main.91a19715.chunk.js"
+  ]
+}
